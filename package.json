@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Mir",
+  "license": "ISC",
+  "dependencies": {
+    "all": "0.0.0",
+    "babel": "^6.23.0",
+    "bad-words": "^3.0.3",
+    "express": "^4.17.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "socket.io": "^2.3.0"
+  }
+}
